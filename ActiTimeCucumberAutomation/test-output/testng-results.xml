@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-19T16:25:32 IST" name="Default suite" finished-at="2023-07-19T16:25:59 IST" duration-ms="27104">
+    <groups>
+    </groups>
+    <test started-at="2023-07-19T16:25:32 IST" name="Default test" finished-at="2023-07-19T16:25:59 IST" duration-ms="27104">
+      <class name="com.sgtesting.actitime.driverscript.DriverScript.DriverScript">
+        <test-method is-config="true" signature="setUpClass()[pri:0, instance:com.sgtesting.actitime.driverscript.DriverScript.DriverScript@2cb4893b]" started-at="2023-07-19T16:25:32 IST" name="setUpClass" finished-at="2023-07-19T16:25:32 IST" duration-ms="133" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method signature="feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:com.sgtesting.actitime.driverscript.DriverScript.DriverScript@2cb4893b]" started-at="2023-07-19T16:25:32 IST" name="feature" data-provider="features" finished-at="2023-07-19T16:25:59 IST" duration-ms="26876" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Login,Create user,Delete user and Logout functionality]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- feature -->
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:com.sgtesting.actitime.driverscript.DriverScript.DriverScript@2cb4893b]" started-at="2023-07-19T16:25:59 IST" name="tearDownClass" finished-at="2023-07-19T16:25:59 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- com.sgtesting.actitime.driverscript.DriverScript.DriverScript -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

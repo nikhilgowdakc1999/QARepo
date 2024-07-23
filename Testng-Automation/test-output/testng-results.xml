@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="12" passed="12" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-20T12:14:34 IST" name="Default suite" finished-at="2023-07-20T12:15:28 IST" duration-ms="53832">
+    <groups>
+    </groups>
+    <test started-at="2023-07-20T12:14:34 IST" name="Default test" finished-at="2023-07-20T12:15:28 IST" duration-ms="53832">
+      <class name="com.sgtesting.TestNGScenarioAssignments.Assignment8Actime">
+        <test-method signature="launch()[pri:1, instance:com.sgtesting.TestNGScenarioAssignments.Assignment8Actime@68c9133c]" started-at="2023-07-20T12:14:34 IST" name="launch" finished-at="2023-07-20T12:14:39 IST" duration-ms="4896" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method signature="Navigate()[pri:2, instance:com.sgtesting.TestNGScenarioAssignments.Assignment8Actime@68c9133c]" started-at="2023-07-20T12:14:39 IST" name="Navigate" finished-at="2023-07-20T12:14:41 IST" duration-ms="1294" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Navigate -->
+        <test-method signature="login(java.lang.String,java.lang.String)[pri:3, instance:com.sgtesting.TestNGScenarioAssignments.Assignment8Actime@68c9133c]" started-at="2023-07-20T12:14:41 IST" name="login" data-provider="LoginData" finished-at="2023-07-20T12:14:44 IST" duration-ms="3233" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[manager]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="Minimize()[pri:4, instance:com.sgtesting.TestNGScenarioAssignments.Assignment8Actime@68c9133c]" started-at="2023-07-20T12:14:44 IST" name="Minimize" finished-at="2023-07-20T12:14:45 IST" duration-ms="1095" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Minimize -->
+        <test-method signature="Createcustomer(java.lang.String)[pri:5, instance:com.sgtesting.TestNGScenarioAssignments.Assignment8Actime@68c9133c]" started-at="2023-07-20T12:14:45 IST" name="Createcustomer" data-provider="Customname" finished-at="2023-07-20T12:14:51 IST" duration-ms="5790" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Acer]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Createcustomer -->
+        <test-method signature="CreateProject(java.lang.String)[pri:6, instance:com.sgtesting.TestNGScenarioAssignments.Assignment8Actime@68c9133c]" started-at="2023-07-20T12:14:51 IST" name="CreateProject" data-provider="Projectname" finished-at="2023-07-20T12:14:57 IST" duration-ms="6386" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Acer Project]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateProject -->
+        <test-method signature="CreateTask(java.lang.String)[pri:7, instance:com.sgtesting.TestNGScenarioAssignments.Assignment8Actime@68c9133c]" started-at="2023-07-20T12:14:57 IST" name="CreateTask" data-provider="Taskcreate" finished-at="2023-07-20T12:15:06 IST" duration-ms="8373" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Task1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateTask -->
+        <test-method signature="DeleteTask()[pri:8, instance:com.sgtesting.TestNGScenarioAssignments.Assignment8Actime@68c9133c]" started-at="2023-07-20T12:15:06 IST" name="DeleteTask" finished-at="2023-07-20T12:15:14 IST" duration-ms="8352" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DeleteTask -->
+        <test-method signature="DeleteProject()[pri:9, instance:com.sgtesting.TestNGScenarioAssignments.Assignment8Actime@68c9133c]" started-at="2023-07-20T12:15:14 IST" name="DeleteProject" finished-at="2023-07-20T12:15:18 IST" duration-ms="4418" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DeleteProject -->
+        <test-method signature="Deletecustomer()[pri:10, instance:com.sgtesting.TestNGScenarioAssignments.Assignment8Actime@68c9133c]" started-at="2023-07-20T12:15:18 IST" name="Deletecustomer" finished-at="2023-07-20T12:15:23 IST" duration-ms="4383" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Deletecustomer -->
+        <test-method signature="logout()[pri:11, instance:com.sgtesting.TestNGScenarioAssignments.Assignment8Actime@68c9133c]" started-at="2023-07-20T12:15:23 IST" name="logout" finished-at="2023-07-20T12:15:25 IST" duration-ms="2281" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method signature="CloseBrowser()[pri:12, instance:com.sgtesting.TestNGScenarioAssignments.Assignment8Actime@68c9133c]" started-at="2023-07-20T12:15:25 IST" name="CloseBrowser" finished-at="2023-07-20T12:15:28 IST" duration-ms="3268" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+      </class> <!-- com.sgtesting.TestNGScenarioAssignments.Assignment8Actime -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

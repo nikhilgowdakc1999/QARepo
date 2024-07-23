@@ -1,0 +1,50 @@
+2024-04-02 21:13:34,673 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-04-02 21:22:10,578 [Worker-21: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sgtesting:API-Automation:0.0.1-SNAPSHOT @ D:\New folder\GitRepository\CurrentWorkSpace\ExampleAugust26th2022Repository\API-Automation\pom.xml.
+2024-04-02 21:22:11,443 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-02 21:22:11,444 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New folder\GitRepository\CurrentWorkSpace\ExampleAugust26th2022Repository\API-Automation\src\main\resources
+2024-04-02 21:22:11,455 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-02 21:22:11,455 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New folder\GitRepository\CurrentWorkSpace\ExampleAugust26th2022Repository\API-Automation\src\test\resources
+2024-04-02 21:22:11,998 [Worker-21: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sgtesting:APIAutomationProtoType:0.0.1-SNAPSHOT @ D:\New folder\GitRepository\CurrentWorkSpace\ExampleAugust26th2022Repository\APIAutomationProtoType\pom.xml.
+2024-04-02 21:22:12,310 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-02 21:22:12,310 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New folder\GitRepository\CurrentWorkSpace\ExampleAugust26th2022Repository\APIAutomationProtoType\src\main\resources
+2024-04-02 21:22:12,313 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-02 21:22:12,318 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-04-02 21:22:12,708 [Worker-23: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sgtesting.api:APITesting:0.0.1-SNAPSHOT @ D:\New folder\GitRepository\CurrentWorkSpace\ExampleAugust26th2022Repository\APITesting\pom.xml.
+2024-04-02 21:22:12,878 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-02 21:22:12,878 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New folder\GitRepository\CurrentWorkSpace\ExampleAugust26th2022Repository\APITesting\src\main\resources
+2024-04-02 21:22:12,881 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-02 21:22:12,881 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New folder\GitRepository\CurrentWorkSpace\ExampleAugust26th2022Repository\APITesting\src\test\resources
+2024-04-02 21:22:13,231 [Worker-23: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sgtesting.actitime:ActiTimeAutomation:0.0.1-SNAPSHOT @ D:\New folder\GitRepository\CurrentWorkSpace\ExampleAugust26th2022Repository\ActiTimeAutomation\pom.xml.
+2024-04-02 21:22:14,450 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-02 21:22:14,450 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New folder\GitRepository\CurrentWorkSpace\ExampleAugust26th2022Repository\ActiTimeAutomation\src\main\resources
+2024-04-02 21:22:14,451 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-02 21:22:14,452 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2024-04-02 21:22:15,253 [Worker-22: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sgtesting.actitime.stepdefinitions:ActiTimeCucumberAutomation:0.0.1-SNAPSHOT @ D:\New folder\GitRepository\CurrentWorkSpace\ExampleAugust26th2022Repository\ActiTimeCucumberAutomation\pom.xml.
+2024-04-02 21:22:16,000 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-02 21:22:16,000 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New folder\GitRepository\CurrentWorkSpace\ExampleAugust26th2022Repository\ActiTimeCucumberAutomation\src\main\resources
+2024-04-02 21:22:16,003 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-02 21:22:16,004 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2024-04-02 21:22:16,249 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-02 21:22:16,249 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New folder\GitRepository\CurrentWorkSpace\ExampleAugust26th2022Repository\ActiTimeAutomation\src\main\resources
+2024-04-02 21:22:16,254 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-02 21:22:16,256 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-02 21:22:16,592 [Worker-24: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sgtesting.tests:DemoMavenProject:0.0.1-SNAPSHOT @ D:\New folder\GitRepository\CurrentWorkSpace\ExampleAugust26th2022Repository\DemoMavenProject\pom.xml.
+2024-04-02 21:22:16,902 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-02 21:22:16,902 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New folder\GitRepository\CurrentWorkSpace\ExampleAugust26th2022Repository\DemoMavenProject\src\main\resources
+2024-04-02 21:22:16,905 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-02 21:22:16,905 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New folder\GitRepository\CurrentWorkSpace\ExampleAugust26th2022Repository\DemoMavenProject\src\test\resources
+2024-04-02 21:22:17,028 [Worker-24: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sgtesting.actitime:DemoProject1:0.0.1-SNAPSHOT @ D:\New folder\GitRepository\CurrentWorkSpace\ExampleAugust26th2022Repository\DemoProject1\pom.xml.
+2024-04-02 21:22:17,432 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-02 21:22:17,433 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New folder\GitRepository\CurrentWorkSpace\ExampleAugust26th2022Repository\DemoProject1\src\main\resources
+2024-04-02 21:22:17,434 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-02 21:22:17,434 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-02 21:22:18,993 [Worker-25: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sgtesting.newtest1:MavenAssignments:0.0.1-SNAPSHOT @ D:\New folder\GitRepository\CurrentWorkSpace\ExampleAugust26th2022Repository\MavenAssignments\pom.xml.
+2024-04-02 21:22:19,341 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-02 21:22:19,342 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New folder\GitRepository\CurrentWorkSpace\ExampleAugust26th2022Repository\MavenAssignments\src\main\resources
+2024-04-02 21:22:19,344 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-02 21:22:19,344 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New folder\GitRepository\CurrentWorkSpace\ExampleAugust26th2022Repository\MavenAssignments\src\test\resources
+2024-04-02 21:22:19,452 [Worker-25: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sgtesting.calculator.testcases:TDD-Automation:0.0.1-SNAPSHOT @ D:\New folder\GitRepository\CurrentWorkSpace\ExampleAugust26th2022Repository\MavenProject-TDDTestCases\pom.xml.
+2024-04-02 21:22:19,482 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-02 21:22:19,482 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New folder\GitRepository\CurrentWorkSpace\ExampleAugust26th2022Repository\MavenProject-TDDTestCases\src\main\resources
+2024-04-02 21:22:19,484 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-02 21:22:19,484 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New folder\GitRepository\CurrentWorkSpace\ExampleAugust26th2022Repository\MavenProject-TDDTestCases\src\test\resources

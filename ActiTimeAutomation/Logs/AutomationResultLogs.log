@@ -1,0 +1,18 @@
+2023-08-25 14:51:39,520 INFO c.s.a.s.ActiTimeStepDefinition [main] Launch the application
+2023-08-25 14:51:44,227 ERROR c.s.a.s.ActiTimeStepDefinition [main] There is an error occurance during the execution of Launch Application org.openqa.selenium.SessionNotCreatedException: Could not start a new session. Response code 500. Message: session not created: This version of ChromeDriver only supports Chrome version 114
+Current browser version is 116.0.5845.111 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe 
+Host info: host: 'NIKHIL', ip: '192.168.29.145'
+Build info: version: '4.6.0', revision: '79f1c02ae20'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.19'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, newSession {capabilities=[Capabilities {browserName: chrome, goog:chromeOptions: {args: [--start-maximized, --remote-allow-origins=*], extensions: []}}], desiredCapabilities=Capabilities {browserName: chrome, goog:chromeOptions: {args: [--start-maximized, --remote-allow-origins=*], extensions: []}}}]
+2023-08-25 14:51:44,233 INFO c.s.a.s.ActiTimeStepDefinition [main] Navigate to the url of the application
+2023-08-25 14:51:44,233 ERROR c.s.a.s.ActiTimeStepDefinition [main] There is an error occurance during the execution of Navigate_to_the_url_of_the_application java.lang.NullPointerException
+2023-08-25 14:51:44,237 INFO c.s.a.s.ActiTimeStepDefinition [main] Login using valid credentials
+2023-08-25 14:51:44,239 ERROR c.s.a.s.ActiTimeStepDefinition [main] There is an error occurance during the execution of Login_using_valid_credentials java.lang.NullPointerException
+2023-08-25 14:51:44,240 INFO c.s.a.s.ActiTimeStepDefinition [main] minimize the flyout Window
+2023-08-25 14:51:44,240 ERROR c.s.a.s.ActiTimeStepDefinition [main] There is an error occurance during the execution of minimize_the_flyout_Window java.lang.NullPointerException
+2023-08-25 14:51:44,241 INFO c.s.a.s.ActiTimeStepDefinition [main] Perform logout action
+2023-08-25 14:51:44,241 ERROR c.s.a.s.ActiTimeStepDefinition [main] There is an error occurance during the execution of Perform_logout_action java.lang.NullPointerException
+2023-08-25 14:51:44,242 INFO c.s.a.s.ActiTimeStepDefinition [main] the login page should display
+2023-08-25 14:51:44,242 ERROR c.s.a.s.ActiTimeStepDefinition [main] There is an error occurance during the execution of the_login_page_should_display java.lang.NullPointerException
